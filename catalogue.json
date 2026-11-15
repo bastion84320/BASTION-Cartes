@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "source": "© OpenStreetMap contributors (ODbL)",
+  "packs": [
+    {
+      "code": "84",
+      "label": "Vaucluse",
+      "size": 5227791,
+      "url": "https://raw.githubusercontent.com/bastion84320/BASTION-Cartes/main/84.pack",
+      "sha256": "4268b2a9c31afb44e4854ccef2ecdfb6d1a5f72b41bdc3b3c7a664970786d3ce"
+    }
+  ]
+}
