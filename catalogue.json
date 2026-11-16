@@ -3,6 +3,39 @@
   "source": "© OpenStreetMap contributors (ODbL)",
   "packs": [
     {
+      "code": "13",
+      "label": "Bouches-du-Rhone (13)",
+      "size": 7111500,
+      "sha256": "64d1a7edd8cd56ede854a22adf515a0ff142f8af183081198395fc49254e0b7c",
+      "version": "2026-11-15",
+      "url": "https://raw.githubusercontent.com/bastion84320/BASTION-Cartes/main/13.pack",
+      "roads": 224187,
+      "railways": 4601,
+      "pois": 9978
+    },
+    {
+      "code": "26",
+      "label": "Drome (26)",
+      "size": 5791403,
+      "sha256": "eda47586a7354ed56cf11176ba8753cf4b2b3af8996852bca6c86e94fba2cb82",
+      "version": "2026-11-15",
+      "url": "https://raw.githubusercontent.com/bastion84320/BASTION-Cartes/main/26.pack",
+      "roads": 150138,
+      "railways": 1738,
+      "pois": 5289
+    },
+    {
+      "code": "30",
+      "label": "Gard (30)",
+      "size": 6096086,
+      "sha256": "babb1ed177a2acc3f26a9fd8cd014e6d5430599c43e644cc09feda8d79008b0e",
+      "version": "2026-11-15",
+      "url": "https://raw.githubusercontent.com/bastion84320/BASTION-Cartes/main/30.pack",
+      "roads": 144545,
+      "railways": 1967,
+      "pois": 5518
+    },
+    {
       "code": "84",
       "label": "Vaucluse",
       "size": 5227791,
